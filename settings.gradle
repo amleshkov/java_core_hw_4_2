@@ -1,0 +1,5 @@
+rootProject.name = 'hw_4_2'
+include 'db'
+include 'api'
+include 'service'
+
